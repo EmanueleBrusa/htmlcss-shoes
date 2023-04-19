@@ -18,6 +18,18 @@ body{
 .green{
     background-color: green;
 }
+.yellow h2{
+    color: green
+}
 .yellow{
     background-color: yellow;
+}
+.content-red{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.center{
+    text-align: center;
 }
