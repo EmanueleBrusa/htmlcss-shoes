@@ -46,7 +46,13 @@ a{
     box-shadow: 0px 0px 5px gray;
 }
 .link{
-    position: absolute;
-    top: 30px;
-    right: 30px;
+    
+}
+.container-red{
+    background-color: red;
+    width: 100%;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: right;
 }
