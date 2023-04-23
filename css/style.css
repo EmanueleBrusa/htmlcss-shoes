@@ -50,3 +50,9 @@ a{
     top: 30px;
     right: 30px;
 }
+.container-red{
+    background-color: red;
+    width: 100%;
+    height: 100px;
+    position: relative;
+}
